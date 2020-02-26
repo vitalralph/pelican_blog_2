@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 #THEME = "/Users/ralphvital/Tableau/Pelican/Third/pelican-themes/nmnlist"
 
-PLUGIN_PATHS = ['/Users/ralphvital/Tableau/Pelican/Third/blog_pelican/pelican-plugins']
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['tipue_search']
 
 # Blogroll
