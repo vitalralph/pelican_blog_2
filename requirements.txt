@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.2
+Markdown==2.6.8
+pelican==3.7.1
+Pyyaml
